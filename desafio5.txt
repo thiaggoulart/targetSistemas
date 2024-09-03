@@ -1,0 +1,4 @@
+Primeiro, deve-se ligar o primeiro interruptor e manter ele ligado por uns 10 minutos para aquecer a lâmpada. Então, desligue o primeiro interruptor
+e ligue o segundo interruptor. Deixe o terceiro interruptor desligado durante todo tempo. Vá até as salas das lâmpadas e a lâmpada que está quente e
+apagada será a do primeiro interruptor, a lâmpada que está acesa será a do segundo interruptor, e a lâmpada que está fria e apagada será do terceiro
+interruptor.
