@@ -9,4 +9,4 @@ K = 8, SOMA = 35
 K = 9, SOMA = 44
 K = 10, SOMA = 54
 K = 11, SOMA = 65
-K = 12, loop termina e não adiciona K sendo o final de SOMA igual a 65
+K = 12, SOMA = 78
