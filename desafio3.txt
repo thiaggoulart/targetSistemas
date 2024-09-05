@@ -12,3 +12,4 @@ k = 9, SOMA = 45
 k = 10, SOMA = 55
 k = 11, SOMA = 66
 k = 12, SOMA = 78
+k = 13, SOMA = 91
